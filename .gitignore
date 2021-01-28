@@ -1,0 +1,10 @@
+# .gitignore
+init.vim
+vimtovscode
+vimtovscode.exe
+vimtovscodekeybinding
+vimtovscodekeybinding_osx
+vimtovscodekeybinding.exe
+screen1.gif
+screen2.gif
+shrink_version
