@@ -1,6 +1,6 @@
 .PHONY: all build run gotool clean help
 
-LINUX_BINARY="main_linux"
+LINUX_BINARY="main"
 WIN_BINARY="main.exe"
 OSX_BINARY="main_osx"
 
