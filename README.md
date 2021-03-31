@@ -1,4 +1,4 @@
-# github-action-release-demo
+# Github Action Release Demo
 
 This project is used to show how to use Github action to automatically publish and upload files.
 
